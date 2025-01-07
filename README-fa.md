@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/preview.png" alt="Elk screenshots" width="600" height="auto">
+    <img src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/preview2.png" alt="Elk screenshots" width="600" height="auto">
   </a>
 </p>
 
